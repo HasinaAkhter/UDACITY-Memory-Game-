@@ -4,7 +4,7 @@ A Card Matching Game of UDACITY's FEND Nano degree program. It is built on html,
 
 ##  How to Play?
 
-1. Click on the Link to go the game page
+1. Click on the Link to go to the game page
 https://hasinaakhter.github.io/UDACITY-Memory-Game-/
 2. Click on any card and an image will be diplayed
 3. You have to search the same image in other cards
