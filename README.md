@@ -5,7 +5,7 @@ A Card Matching Game that is built on JavaScript without any external libraries.
 ##  How to Play?
 
 1. Open the Link [Click here to see the project]
-(https://hasinaakhter.github.io/UDACITY-portfolio-project/)
+(https://hasinaakhter.github.io/UDACITY-Memory-Game-/)
 2. Click on any card and you will see an image
 3. Keep searching for the same image in other cards
 4. When you find the right one, both of them will stay flipped
