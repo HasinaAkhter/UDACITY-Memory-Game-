@@ -1,20 +1,25 @@
 # Memory Game Project
 
-## Table of Contents
+A Card Matching Game that is built on JavaScript without any external libraries.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+##  How to Play?
 
-## Instructions
+1. Open the Link [Click here to see the project]
+(https://hasinaakhter.github.io/UDACITY-portfolio-project/)
+2. Click on any card and you will see an image
+3. Keep searching for the same image in other cards
+4. When you find the right one, both of them will stay flipped
+5. If you didn't find it, both of them will be invisible again
+6. Try to find the matched cards in as less moves as possible to get a better rate
+and it will also reflect that you have a good memory!
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Features
 
-To get started, open `js/app.js` and start building out the app's functionality
+1. Moves counter
+2. Live Stopwatch
+3. Rating System based on your total Moves
+4. Replay button to restart the game
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
