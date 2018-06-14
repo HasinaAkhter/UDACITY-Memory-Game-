@@ -17,7 +17,7 @@ and it will also reflect that you have a good memory!
 
 1. Moves counter
 2. Live Stopwatch
-3. Rating System based on your total Moves
+3. Rating System based on player's total Moves
 4. Replay button to restart the game
 
 
