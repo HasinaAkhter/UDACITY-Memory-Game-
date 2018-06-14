@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Matching Game</title>
+    <meta name="description" content="">
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+	<link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Coda">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+    <div class="container">
+	    <!--Display a win message with the final score-->
+        <div class="modal hide">
+            <h3>Congratulations! You have unlocked all the tiles.</h3>
+            <p style="margin: 10px" id="win-message">
+
+            </p>
+            <button id="play-again">Play Again?</button>
+        </div>
+        <header>
+            <h1>Matching Game</h1>
+        </header>
+
+        <section class="score-panel">
+        	<ul class="stars">
+        		<!--Deletion of this list to update it dynamically by javascript-->
+				<!--
+				<li><i class=" fa fa-star"></i></li>
+        		<li><i class="fa fa-star"></i></li>
+        		<li><i class="fa fa-star"></i></li>
+				-->
+        	</ul>
+
+        	<span class="moves"></span> Moves
+			<!--Addition of a timer-->
+			<span class="timer">0</span> 
+
+            <div class="restart">
+        		<i class="fa fa-repeat"></i>
+        	</div>
+            
+        
+        </section>
+
+        <ul class="deck">
+            <!--Deletion of this list to update it dynamically by javascript-->
+			<!--
+			<li class="card" data-card="fa-diamond">
+                <i class="fa fa-diamond"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-paper-plane-o"></i>
+            </li>
+            <li class="card match">
+                <i class="fa fa-anchor"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-bolt"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-cube"></i>
+            </li>
+            <li class="card match">
+                <i class="fa fa-anchor"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-leaf"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-bicycle"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-diamond"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-bomb"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-leaf"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-bomb"></i>
+            </li>
+            <li class="card open show">
+                <i class="fa fa-bolt"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-bicycle"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-paper-plane-o"></i>
+            </li>
+            <li class="card">
+                <i class="fa fa-cube"></i>
+            </li>
+			--->
+        </ul>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
