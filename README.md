@@ -1,6 +1,6 @@
 # Memory Game Project
 
-A Card Matching Game of UDACITY's FEND Nano degree program. It is built on html, css and made dynamically functional by using javascript.
+A Card Matching Game of UDACITY's FEND Nano degree program. It is built on html, css and made dynamically functional by using vanilla javascript.
 
 ##  How to Play?
 
