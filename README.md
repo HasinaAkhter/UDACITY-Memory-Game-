@@ -21,5 +21,14 @@ https://hasinaakhter.github.io/UDACITY-Memory-Game-/
 4. The Replay button to restart the game
 
 
+## Specification/criteria in the project rubric
+
+1. The game randomly shuffles the cards. A user wins once all cards have successfully been matched
+2.When a user wins the game, a modal appears to congratulate the player and ask if they want to play again. It should also tell the user how much time it took to win the game, and what the star rating was
+3.A restart button allows the player to reset the game board, the timer, and the star rating
+4.The game displays a star rating (from 1 to at least 3) that reflects the player's performance. At the beginning of a game, it should display at least 3 stars. After some number of moves, it should change to a lower star rating. After a few more moves, it should change to a even lower star rating (down to 1).The number of moves needed to change the rating is up to you, but it should happen at some point
+5.When the player starts a game, a displayed timer should also start. Once the player wins the game, the timer stops
+6.Game displays the current number of moves a user has made
+
 
 
